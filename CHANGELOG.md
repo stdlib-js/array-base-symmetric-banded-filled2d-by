@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8e00e52`](https://github.com/stdlib-js/stdlib/commit/8e00e52bed8c7b4fec42c468bd021815a417b988) - **bench:** parameterize `k` _(by Athan Reines)_
 -   [`41a2534`](https://github.com/stdlib-js/stdlib/commit/41a2534c6dd345a0dc73365826919ccbf1e9eca7) - **feat:** add `array/base/symmetric-banded/filled2d-by` _(by Athan Reines)_
 
 </details>
