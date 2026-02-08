@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-symmetric-banded-filled2d-by@esm/index.mjs';
+import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-symmetric-banded-filled2d-by@v0.1.1-esm/index.mjs';
 ```
 
 #### filled2dBy( N, k, fill, clbk\[, thisArg] )
@@ -132,7 +132,7 @@ var cnt = ctx.count;
 <script type="module">
 
 import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@esm/index.mjs';
-import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-symmetric-banded-filled2d-by@esm/index.mjs';
+import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-symmetric-banded-filled2d-by@v0.1.1-esm/index.mjs';
 
 function clbk( indices ) {
     return indices[ 0 ] + indices[ 1 ];
